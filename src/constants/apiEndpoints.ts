@@ -1,0 +1,1 @@
+export const TEST_VOICE_WEBSOCKET_URL = "wss://ytkfwpd.gnani.site/ws_speech_call"

@@ -1,0 +1,1 @@
+export const VISUALIZER_ELEMENT_ID = '__visualizer_element__';
